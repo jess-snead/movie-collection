@@ -1,9 +1,9 @@
 let allItems = [];
 
 async function loadData() {
-  const movies = await fetch('data/movies.json').then(r => r.json());
-  const tv = await fetch('data/tv_series.json').then(r => r.json());
-  const anime = await fetch('data/anime.json').then(r => r.json());
+  const movies = await fetch('movies.json').then(r => r.json());
+  const tv = await fetch('tv_series.json').then(r => r.json());
+  const anime = await fetch('anime.json').then(r => r.json());
 
   allItems = [...movies, ...tv, ...anime];
   renderTable(allItems);
