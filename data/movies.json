@@ -1,0 +1,1024 @@
+[
+  {
+    "title": "Scott Pilgrim vs The World",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Logan",
+    "genre": "action",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Twelve Monkeys",
+    "genre": "action",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Finding Nemo",
+    "genre": "disney",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null,
+    "duplicates": 2
+  },
+  {
+    "title": "James and the Giant Peach",
+    "genre": "kids",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Kubo: and the Two Strings",
+    "genre": "kids",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Robots",
+    "genre": "kids",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Whiplash",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Thing",
+    "genre": "horror",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "La La Land",
+    "genre": "musical",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Signs",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": "fantasy",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Incredibles",
+    "genre": ["kids", "disney"],
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Rango",
+    "genre": ["kids", "disney"],
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Oldboy",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Mist",
+    "genre": "horror",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Gran Torino",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Big Fish",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Lilo and Stitch",
+    "genre": ["kids", "disney"],
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Wall-E",
+    "genre": ["kids", "disney"],
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Shrek 2",
+    "genre": "kids",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "action",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Be Kind Rewind",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Twilight: Breaking Dawn Part 2",
+    "genre": "drama",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Greatest Showman",
+    "genre": "musical",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Pokemon: Destiny Deoxys The Movie",
+    "genre": "kids",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Pokemon: 4Ever",
+    "genre": "kids",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Lorax",
+    "genre": "kids",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "IP Man",
+    "genre": "action",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Kung Fu Hustle",
+    "genre": "action",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Megamind",
+    "genre": "kids",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Ever After: A Cinderella Story",
+    "genre": "drama",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Shutter Island",
+    "genre": "thriller",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Untouchable",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Artificial Intelligence",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Groundhog Day",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null,
+    "duplicates": 2
+  },
+  {
+    "title": "Michael Collins",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "George of the Jungle 2",
+    "genre": "kids",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Bill and Ted's Bogus Journey",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "9",
+    "genre": "kids",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "National Treasure",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Up",
+    "genre": ["kids", "disney"],
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Princess and The Frog",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Django Unchained",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Trainspotting",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null,
+    "duplicates": 2
+  },
+  {
+    "title": "The Haunted Mansion",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Catch Me If You Can",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Tangled",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Golden Voyage of Sinbad",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Blade",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Bionicle: Mask of Light",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Last Samurai",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Good Will Hunting",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Inception",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Short Circuit",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Bridge of Spies",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Help! I'm a Fish",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Corpse Bride",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Ghost Rider",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Monsters Inc",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Goodfellas",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Fisher King",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Love Actually",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Lord of War",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Ice Age",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Sixth Sense",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Life Aquatic",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "V for Vendetta",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Space Jam",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Practical Magic",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Funny Face",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Scooby Doo: Witch's Ghost",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Moulin Rouge",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Phantom of the Opera",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Pirates of the Caribbean: At World's End",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null,
+    "duplicates": 2
+  },
+  {
+    "title": "Barton Fink",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Snatch",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Land That Time Forgot",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Guyver: Dark Hero",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Dungeons and Dragons",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Excalibur",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Frozen",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Emperor's New Groove",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "A Scanner Darkly",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Witches",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Cloudy with a Chance of Meatballs",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Secret Life of Bees",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Simpsons Movie",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null,
+    "duplicates": 2
+  },
+  {
+    "title": "Train to Busan: Peninsula",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Darjeeling Limited",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Nacho Libre",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The City of Lost Children",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Princess Diaries",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The NeverEnding Story",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Lord of the Rings: Return of the King",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Your Name",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "A Letter to Momo",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "American Hustle",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Die Hard",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Fantastic Mr. Fox",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Arrival",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Flash Gordon",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Mean Girls",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Troll Hunter",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Hudsucker Proxy",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Dead Poets Society",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Day the Earth Stood Still",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Fight Club",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "District 9",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "When Marnie Was There",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "The Simpsons Movie",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Back to the Future",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Back to the Future Part II",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Back to the Future Part III",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Indiana Jones: Raiders of the Lost Ark",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Indiana Jones: Temple of Doom",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Indiana Jones: The Last Crusade",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Indiana Jones: Kingdom of the Crystal Skull",
+    "genre": "",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Spiderman",
+    "genre": "action",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Spiderman 2",
+    "genre": "action",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  },
+  {
+    "title": "Spiderman 3",
+    "genre": "action",
+    "type": "movie",
+    "year": "",
+    "location": "",
+    "watched": null
+  }
+]
+
