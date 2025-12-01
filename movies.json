@@ -1,11 +1,11 @@
 [
   {
     "title": "Scott Pilgrim vs The World",
-    "genre": "",
+    "genre": "action",
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Logan",
@@ -13,7 +13,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Twelve Monkeys",
@@ -21,15 +21,15 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Finding Nemo",
-    "genre": "disney",
+    "genre": ["kids", "disney"],
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null,
+    "watched": true,
     "duplicates": 2
   },
   {
@@ -38,7 +38,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Kubo: and the Two Strings",
@@ -46,7 +46,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Robots",
@@ -54,7 +54,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Whiplash",
@@ -74,11 +74,11 @@
   },
   {
     "title": "La La Land",
-    "genre": "musical",
+    "genre": ["drama", "musical"],
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Signs",
@@ -86,7 +86,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -94,7 +94,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "The Incredibles",
@@ -102,7 +102,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Rango",
@@ -110,15 +110,15 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Oldboy",
-    "genre": "",
+    "genre": "action",
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "The Mist",
@@ -126,15 +126,15 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Gran Torino",
-    "genre": "",
+    "genre": "action",
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Big Fish",
@@ -150,7 +150,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Wall-E",
@@ -158,7 +158,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Shrek 2",
@@ -166,7 +166,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "The Dark Knight",
@@ -174,7 +174,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Be Kind Rewind",
@@ -190,7 +190,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "The Greatest Showman",
@@ -198,7 +198,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Pokemon: Destiny Deoxys The Movie",
@@ -206,7 +206,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Pokemon: 4Ever",
@@ -214,7 +214,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "The Lorax",
@@ -222,7 +222,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "IP Man",
@@ -230,7 +230,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Kung Fu Hustle",
@@ -238,7 +238,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Megamind",
@@ -246,7 +246,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Ever After: A Cinderella Story",
@@ -254,7 +254,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Shutter Island",
@@ -262,7 +262,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Untouchable",
@@ -282,19 +282,19 @@
   },
   {
     "title": "Groundhog Day",
-    "genre": "",
+    "genre": "drama",
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": true
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
-    "genre": "",
+    "genre": "action",
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null,
+    "watched": true,
     "duplicates": 2
   },
   {
@@ -520,7 +520,7 @@
     "type": "movie",
     "year": "",
     "location": "",
-    "watched": null
+    "watched": false
   },
   {
     "title": "Love Actually",
